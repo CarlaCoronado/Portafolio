@@ -147,6 +147,7 @@ p {
 	margin-left: 5%;
 	margin-right: 5%;
 }
+
 input:focus,
 select:focus,
 button:focus,
@@ -230,7 +231,17 @@ li{
 .set-bg {
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: right;
+	background-position: center;
+}
+
+section.page-top-section.set-bg {
+    background-image: url(img/header-bg/1.png);
+	background-position: right; 
+}
+
+section.milestones-section.set-bg {
+    background-image: url(img/header-bg/1.png);
+    background-position: right;
 }
 
 .spad {
