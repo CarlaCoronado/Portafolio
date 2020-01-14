@@ -234,7 +234,8 @@ li{
 	background-position: center;
 }
 
-section.page-top-section.set-bg {
+/* imagenes en about centradas */
+section.page-top-section.set-bg { 
     background-image: url(img/header-bg/1.png);
 	background-position: right; 
 }
