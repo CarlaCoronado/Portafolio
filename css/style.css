@@ -237,12 +237,12 @@ li{
 /* imagenes en about centradas */
 section.page-top-section.set-bg { 
     background-image: url(img/header-bg/1.png);
-	background-position: right; 
+	background-position: center; 
 }
 
 section.milestones-section.set-bg {
     background-image: url(img/header-bg/1.png);
-    background-position: right;
+    background-position: center;
 }
 
 .spad {
